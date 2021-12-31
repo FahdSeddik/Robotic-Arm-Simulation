@@ -1,7 +1,10 @@
 # Robotic-Arm-Simulation
 ---========== Mechanical Engineering ==========---
+
 ---==========       INTN 125         ==========---
+
 ---==========        Project         ==========---
+
 ---==========       Fall 2021        ==========---
 
 Instructions:
