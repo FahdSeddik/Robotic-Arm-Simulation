@@ -17,11 +17,8 @@ Instructions:
 
 
 Students:
-
-عبدالرحمن ايمن محمد فوزى البديوى	1200380
-
-فهد احمد فرج على محمد صديق	1200891
-
+Fahd Ahmed Farag Aly
+Abdulrahman Ayman Mohamed
  
 
 ---==========   Cairo University   ==========---
