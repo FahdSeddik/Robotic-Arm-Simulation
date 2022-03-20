@@ -20,7 +20,3 @@ Students:
 
 ---==========   Cairo University   ==========---
 ---==========Faculty of Engineering==========---
-<<<<<<< HEAD
-=======
-local development
->>>>>>> 82eaae260e814a7eb249f87c89387b029583b806
